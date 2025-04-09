@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mauni Branch
 
 
 🎓 MS in Business Analytics Candidate at William & Mary
