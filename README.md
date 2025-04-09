@@ -1,13 +1,15 @@
 ## Mauni Branch
 
 
-🎓 MS in Business Analytics Candidate at William & Mary
-
+🎓 Master of Science in Business Analytics Candidate at William & Mary (May 2025)
 
 
 💡 About Me
 
-I'm a results-driven business analytics professional with a strong foundation in data analysis, machine learning, and strategic planning. With experience in both corporate and academic environments, I bring a unique blend of technical skill and collaborative leadership to every project. Whether I’m designing process improvements, analyzing risk, or building visualizations, I’m motivated by opportunities to drive meaningful impact.
+As a dedicated professional pursuing an MSBA at William & Mary, I’m passionate about transforming data into actionable insights that drive decision-making and organizational growth. I also hold a BBA in Business Analytics with a concentration in Management & Organizational Leadership and a minor in Data Science.
+
+With over three years of hands-on experience—including my current Graduate Assistant role and past internships—I’ve built expertise in data analytics, strategic planning, and risk management. At Elevance Health, I led workflow optimization efforts, and through W&M’s Cybersecurity Awareness Initiative, I assessed risk and analyzed fraud scenarios.
+
 
 🛠 Technical Skills
 
