@@ -11,13 +11,14 @@ Currently, I’m continuing to grow my technical expertise through projects invo
 
 
 ## 🎓 Education
-- Master of Science in Business Analytics Candidate at William & Mary (Expected May 2025)
-- Bachelor of Business Administration, Business Analytics, Data Science (May 2024)
-- Associate of Science in Buisness Adminostration & Management (May 2021)
+- **Master of Science in Business Analytics**, William & Mary (Expected May 2025)
+- **Bachelor of Business Administration**, Business Analytics, Minor in Data Science, William & Mary (May 2024)
+- **Associate of Science**, Business Administration & Management — *Earned through Dual Enrollment Program* (May 2021)
+
 
 
 
 ## 🛠 Skills
-- Hard Skills: Microsoft Office (Including Advanced Excel and Pivot Tables), SQL, Python, R, Tableau, Alteryx
-- Soft Skills: Strong communication and presentation skills, analytical and creative problem solver, and team player with strong work ethic
+- **Hard Skills:** Microsoft Office (Including Advanced Excel and Pivot Tables), SQL, Python, R, Tableau, Alteryx
+- **Soft Skills:** Strong communication and presentation skills, analytical and creative problem solver, and team player with strong work ethic
 
